@@ -36,11 +36,18 @@ footer {
   margin: 50px auto;
   text-align: center;
 }
-.dl-download > img {
+.dl-download > a {
   width: 40%;
   display: inline-block;
-  text-align: center;
+  text-align: left;
+  height: 40px;
+  margin: 0 10px;
+}
+.dl-download > a:first-child {
+  text-align: right;
+}
+.dl-download > a > img {
   height: 40px;
   width: auto;
-  margin: 0 10px;
+  text-align: center;
 }
