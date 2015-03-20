@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Helvetica', Arial, sans-serif;
+}
+.dl-body-wrap {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: left;
+}
+.dl-gallery {
+  margin: 50px auto;
+}
+.dl-gallery > li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  display: inline-block;
+}
+.dl-gallery > li > img {
+  width: 100%;
+}
