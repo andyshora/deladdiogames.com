@@ -19,6 +19,12 @@ footer {
   text-align: left;
   padding: 0 20px;
 }
+.dl-summary {
+  margin: 20px 0;
+}
+.dl-summary > li {
+  margin: 0 0 20px 0;
+}
 .dl-gallery {
   margin: 50px auto;
   padding: 0;
