@@ -29,7 +29,8 @@ footer {
   width: 300px;
   display: inline-block;
 }
-.dl-gallery > li > img {
+
+.dl-gallery > li > img, .dl-gallery > li > video {
   width: 100%;
 }
 .dl-download {
