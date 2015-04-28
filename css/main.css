@@ -54,7 +54,8 @@ footer {
   margin: 0 10px;
 }
 .dl-download > a:first-child {
-  text-align: right;
+  /*text-align: right;*/
+  text-align: center;
 }
 .dl-download > a > img {
   height: 40px;
